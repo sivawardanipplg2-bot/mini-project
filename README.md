@@ -1,1 +1,1 @@
-# mini-project
+print('hello world') 
